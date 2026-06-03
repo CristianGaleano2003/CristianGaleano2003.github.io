@@ -506,6 +506,21 @@ section h3.section-subheading {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.timeline>li .timeline-image img {
+  width: 100%;        /* ocupa todo el ancho del div */
+  height: 100%;       /* ocupa todo el alto del div */
+  object-fit: cover;  /* recorta la imagen para llenar el espacio */
+  border-radius: 50%; /* mantiene la forma circular */
+  display: block;     /* evita espacios extra */
+}
+
+.custom-circle {
+  width: 300px;        /* ajusta el tamaño que quieras */
+  height: 300px;       /* mismo alto para mantener círculo */
+  object-fit: cover;   /* recorta la imagen para llenar el espacio */
+  border-radius: 50%;  /* asegura que siga siendo circular */
+}
+
 .timeline>li .timeline-image h4 {
     margin-top: 12px;
     font-size: 10px;
