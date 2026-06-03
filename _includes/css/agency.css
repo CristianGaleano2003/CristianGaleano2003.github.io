@@ -78,6 +78,11 @@ h6 {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.logo-img {
+max-width: 150px; /* tamaño uniforme */
+height: auto;
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
@@ -564,8 +569,8 @@ section h3.section-subheading {
 
     .timeline>li .timeline-image {
         left: 50%;
-        width: 100px;
-        height: 100px;
+        width: 120px;
+        height: 120px;
         margin-left: -50px;
     }
 
