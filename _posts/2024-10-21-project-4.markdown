@@ -1,0 +1,16 @@
+---
+title: Global Store KPI
+subtitle: Design Dashboard
+layout: default
+modal-id: 4
+date: 2024-10-21
+img: Global_inform1.jpg
+img1: Global_inform2.jpg
+thumbnail: Global_inform.jpg
+alt: image-alt
+project-date: October 2024
+client: Global store
+category: Design / KPI
+description: This report provides an overview of the U.S. flight landscape, analyzing the number of flights by customer preference category. It focuses on identifying the locations from which most flights depart, offering key geographic insights for logistics planning. In addition, it examines the types of goods transported, enabling strategic adjustments based on market demands. This comprehensive analysis aims to improve operational efficiency and customer satisfaction by tailoring service and product offerings to trends identified in the U.S. aviation sector.
+
+---

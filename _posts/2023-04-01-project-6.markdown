@@ -1,0 +1,16 @@
+---
+title: Finance Inform
+subtitle: BI analyst / KPI
+layout: default
+modal-id: 6
+date: 2023-04-01
+img: Finance_inform1.jpg
+img1: Finance_inform2.jpg
+thumbnail: Finance_inform.jpg
+alt: image-alt
+project-date: April 2023
+client: Reserved
+category: Finance analyst
+description: This banking project aims to maximize the personalization of services through a comprehensive analysis of customer demographic data. By segmenting the customer base by nationality, age, and gender, the goal is to identify patterns and preferences. Integrating these findings will enable the adaptation of product offerings, promoting a banking experience more aligned with the specific needs of each demographic group. The resulting optimization will not only enhance customer satisfaction, also boost operational efficiency by targeting marketing strategies more precisely.
+
+---

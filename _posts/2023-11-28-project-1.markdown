@@ -1,0 +1,16 @@
+---
+title: Smart phone retail
+subtitle: BI Analyst
+layout: default
+modal-id: 1
+date: 2023-11-28
+img: Phone1.jpg
+img1: Phone2.jpg
+thumbnail: Phone.jpg
+alt: image-alt
+project-date: November 2023
+client: Reserved
+category: BI Analyst
+description: This report presents a detailed analysis of the leading mobile phones on the market, categorizing them by various key attributes. It highlights the most prevalent operating systems, providing insight into consumer preferences. It also analyzes screen size, storage capacity, and battery life, allowing for the identification of trends in the most sought-after specifications. Additionally, it includes a price comparison to offer a comprehensive view of the value perceived by consumers. This comprehensive analysis aims to guide consumers and the industry toward the most relevant and competitive options in the mobile phone market.
+
+---

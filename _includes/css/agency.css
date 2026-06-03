@@ -506,6 +506,13 @@ section h3.section-subheading {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.img {
+width: 100%;
+height: 250px;       /* ajusta según tu diseño */
+object-fit: cover;   /* recorta para que todas se vean iguales */
+display: block;
+}
+
 .timeline>li .timeline-image img {
   width: 100%;        /* ocupa todo el ancho del div */
   height: 100%;       /* ocupa todo el alto del div */

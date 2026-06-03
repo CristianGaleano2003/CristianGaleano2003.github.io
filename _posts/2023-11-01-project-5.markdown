@@ -1,0 +1,16 @@
+---
+title: Edufuturo Inform
+subtitle: Dashboard / Monitoring
+layout: default
+modal-id: 5
+date: 2023-11-01
+img: Edufuturo_inform1.jpg
+img1 : Edufuturo_inform2.jpg
+thumbnail: Edufuturo_inform.jpg
+alt: image-alt
+project-date: November 2023
+client: Educamás
+category: Design / Analyst
+description: This data analysis project focuses on the comprehensive management of educational programs, from enrollment to corporate contributions. The report details the number of people enrolled in study programs, providing a clear picture of participation. Additionally, it identifies the link between meeting attendance and subsequent enrollment in projects, making it possible to assess the effectiveness of these interactions. The analysis also highlights corporate contributions, tracking the number of contributors and examining their nationalities to understand workforce diversity. This comprehensive approach aims to optimize resource management and strengthen the company-employee relationship through more personalized educational and employment strategies.
+
+---

@@ -1,0 +1,15 @@
+---
+title: Investment
+subtitle: Design Interactive Dashboard
+layout: default
+modal-id: 3
+date: 2026-04-01
+img: Indicators.jpg
+thumbnail: Indicators.jpg
+alt: image-alt
+project-date: April 2026
+client: Reserved
+category: Design interactive projects
+description: This project integrated data from multiple sources using Python. After cleaning and standardizing the datasets to ensure consistency, the information was transformed into an interactive web dashboard. The dashboard allows users to explore and visualize key indicators dynamically, providing clear insights and comparisons across different dimensions.
+
+---

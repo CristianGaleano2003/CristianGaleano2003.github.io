@@ -1,0 +1,16 @@
+---
+title: Country Indicators
+subtitle: Web scraping / Analyst
+layout: default
+modal-id: 2
+date: 2025-01-01
+img: Country_indicators1.jpg
+img1: Country_indicators2.jpg
+thumbnail: Country_indicators.jpg
+alt: image-alt
+project-date: January 2025
+client: Reserved
+category: Data Analyst / Web Scraping
+description: This project applied web scraping techniques to gather data from multiple online sources. The collected information was then cleaned and standardized to ensure accuracy and consistency. Using the processed dataset, we analyzed key indicators across different countries worldwide, uncovering trends and comparisons that highlight global patterns.
+
+---
