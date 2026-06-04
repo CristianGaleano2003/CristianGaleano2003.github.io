@@ -5,6 +5,7 @@ layout: default
 modal-id: 3
 date: 2026-04-01
 img: Indicators.jpg
+img1: Indicators.jpg
 thumbnail: Indicators.jpg
 alt: image-alt
 project-date: April 2026
